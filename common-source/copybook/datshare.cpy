@@ -1,1 +1,1 @@
-       01 shared-f1     pic x(40) value 'a shared copybook v1.21'.
+       01 shared-f1     pic x(40) value 'a shared copybook v1.22 zdt'.
