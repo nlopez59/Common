@@ -1,1 +1,1 @@
-       01 shared-f1   pic x(40) value 'Common copybook v1.24 zdt Ver'.
+       01 shared-f1   pic x(40) value 'Common cpybk v1 vsCode Ver'.
