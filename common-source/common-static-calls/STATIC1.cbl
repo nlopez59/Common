@@ -8,4 +8,5 @@
        WORKING-STORAGE SECTION.
        PROCEDURE DIVISION.          
       * no rank may break build  
-           DISPLAY 'STATC1 - after reinit meta scanALL patch HLQ v3'.
+      * chg this pgm to build demosub and datbatc?
+           DISPLAY 'STATC1 - after reinit meta scanALL patch HLQ v4'.
