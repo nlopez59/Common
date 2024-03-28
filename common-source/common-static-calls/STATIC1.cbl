@@ -7,4 +7,4 @@
        DATA DIVISION.
        WORKING-STORAGE SECTION.
        PROCEDURE DIVISION.          
-           DISPLAY 'STATC1 - after reinit meta '.
+           DISPLAY 'STATC1 - after reinit meta scanALL '.
