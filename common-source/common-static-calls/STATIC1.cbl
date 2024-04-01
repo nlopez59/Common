@@ -9,4 +9,4 @@
        PROCEDURE DIVISION.          
       * no rank may break build  
       * chg this pgm to build demosub and datbatc?
-           DISPLAY 'STATC1 - after reinit meta scanALL patch HLQ v4'.
+           DISPLAY 'STATC1 - test nested impact v1'.
