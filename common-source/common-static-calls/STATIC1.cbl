@@ -9,4 +9,4 @@
        PROCEDURE DIVISION.          
       * no rank may break build  
       * chg this pgm to build demosub and datbatc?
-           DISPLAY 'STATC1 - test nested impact v5 break link dep'.
+           DISPLAY 'STATC1 - test nested impact v6 break link dep'.
