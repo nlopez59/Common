@@ -1,0 +1,25 @@
+name: Common
+description: | 
+  This sample IBM Z Open Editor zapp.yaml includes a common repo used with the poc-workspace 
+  
+version: 3.0.0
+author:
+  name: Common 
+
+# ref: https://ibm.github.io/zopeneditor-about/Docs/setting_propertygroup.html#language-scoping
+# Note: This property Group is 'merged' into the main app repo property Group under a vsCode workspaceThe  
+#       You clone the Commom repo under the same folder as the the main app repo. In my case its call git on my C drvice
+#       Then save the 2 folder repo root folder as a workspace
+#        
+propertyGroups:
+  - name: cobol-copybooks
+    language: cobol
+    libraries:
+      - name: syslib
+        type: local
+        locations:      
+          - "../Common/common-source/copybooks"
+          
+
+  
+          
