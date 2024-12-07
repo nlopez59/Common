@@ -18,7 +18,7 @@ propertyGroups:
       - name: syslib
         type: local
         locations:      
-          - "../Common/common-source/copybooks"
+          - "../Common/common-source/copybook"
           
 
   
